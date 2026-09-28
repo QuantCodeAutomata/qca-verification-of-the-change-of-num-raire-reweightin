@@ -1,0 +1,4 @@
+epsilon,W1_limit_numerical,W1_limit_theory,boundary_residue,weak_convergence,W1_convergence,obstruction
+0.1,0.11111111111111112,0.11111111111111112,0.1,True,False,boundary |b| mass = 0.1
+0.25,0.3333333333333333,0.3333333333333333,0.25,True,False,boundary |b| mass = 0.25
+0.5,1.0,1.0,0.5,True,False,boundary |b| mass = 0.5
